@@ -17,7 +17,7 @@ LOCAL_PATH := vendor/pixelstyle
 
 # Prebuilt Packages
 PRODUCT_PACKAGES += \
-    NexusWallpapersStubPrebuilt2019
+    NexusWallpapersStubPrebuilt2019Static
 
 # build.prop entries
 PRODUCT_PROPERTY_OVERRIDES += \

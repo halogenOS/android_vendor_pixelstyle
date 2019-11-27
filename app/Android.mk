@@ -1,7 +1,7 @@
 LOCAL_PATH := $(call my-dir)
 
 include $(CLEAR_VARS)
-LOCAL_MODULE := NexusWallpapersStubPrebuilt2019
+LOCAL_MODULE := NexusWallpapersStubPrebuilt2019Static
 LOCAL_MODULE_TAGS := optional
 LOCAL_SRC_FILES := $(LOCAL_MODULE)/$(LOCAL_MODULE).apk
 LOCAL_CERTIFICATE := platform
